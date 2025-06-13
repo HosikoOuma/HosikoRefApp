@@ -1,4 +1,3 @@
-C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\HosikoRefApp_MarkupCompile.cache
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\HosikoRefApp_MarkupCompile.lref
@@ -7,7 +6,6 @@ C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\bin\Debug\net8.0-windows\Ho
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\bin\Debug\net8.0-windows\HosikoRefApp.runtimeconfig.json
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\bin\Debug\net8.0-windows\HosikoRefApp.dll
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\bin\Debug\net8.0-windows\HosikoRefApp.pdb
-C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\HosikoRefApp.g.resources
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\HosikoRefApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\HosikoRefApp.AssemblyInfoInputs.cache
@@ -18,3 +16,7 @@ C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\re
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\HosikoRefApp.pdb
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\HosikoRefApp.genruntimeconfig.cache
 C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\ref\HosikoRefApp.dll
+C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\HosikoRefApp.sourcelink.json
+C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\V\MainWindow.g.cs
+C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Neko\source\repos\HosikoRefApp\HosikoRefApp\obj\Debug\net8.0-windows\V\MainWindow.baml

@@ -1,0 +1,25 @@
+﻿<!-- MainWindow.xaml -->
+<Window x:Class="HosikoRefApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:HosikoRefApp.VM"
+        Title="Главная" Height="400" Width="600">
+    <Window.DataContext>
+        <local:MainWVM/>
+    </Window.DataContext>
+
+    <StackPanel Margin="10">
+        <ComboBox ItemsSource="{Binding GL}" 
+                  DisplayMemberPath="N"
+                  SelectedItem="{Binding SelectedGood}" />
+        <Button Content="Добавить" Command="{Binding AddCommand}" />
+
+        <ListBox ItemsSource="{Binding OL}" 
+                 DisplayMemberPath="N"
+                 SelectedItem="{Binding SelectedOrder}" Height="100"/>
+        <Button Content="Удалить" Command="{Binding DeleteCommand}" />
+
+        <TextBlock Text="{Binding TP}" FontSize="16" />
+        <Button Content="Купить" Command="{Binding BuyCommand}" />
+    </StackPanel>
+</Window>

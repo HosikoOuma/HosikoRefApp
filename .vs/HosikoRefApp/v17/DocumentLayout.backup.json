@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\core\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\core\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\core\\sin\\sin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\core\\sin\\sin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\m\\g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\m\\g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\vm\\mainwvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\vm\\mainwvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\v\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\v\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\vm\\basevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\vm\\basevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\obj\\Debug\\net8.0-windows\\V\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HosikoRefApp\\obj\\Debug\\net8.0-windows\\V\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\v\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\v\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|c:\\users\\neko\\source\\repos\\hosikorefapp\\hosikorefapp\\com\\delcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F0889-8608-41F1-955C-FDCB20CD9C62}|HosikoRefApp\\HosikoRefApp.csproj|solutionrelative:hosikorefapp\\com\\delcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,38 +66,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\obj\\Debug\\net8.0-windows\\V\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "HosikoRefApp\\obj\\Debug\\net8.0-windows\\V\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\obj\\Debug\\net8.0-windows\\V\\MainWindow.g.cs",
+              "RelativeToolTip": "HosikoRefApp\\obj\\Debug\\net8.0-windows\\V\\MainWindow.g.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:10:06.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\App.xaml",
+              "RelativeDocumentMoniker": "HosikoRefApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\App.xaml",
+              "RelativeToolTip": "HosikoRefApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T18:08:29.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SIN.cs",
+              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\CORE\\SIN\\SIN.cs",
+              "RelativeDocumentMoniker": "HosikoRefApp\\CORE\\SIN\\SIN.cs",
+              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\CORE\\SIN\\SIN.cs",
+              "RelativeToolTip": "HosikoRefApp\\CORE\\SIN\\SIN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:36:20.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWVM.cs",
+              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\VM\\MainWVM.cs",
+              "RelativeDocumentMoniker": "HosikoRefApp\\VM\\MainWVM.cs",
+              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\VM\\MainWVM.cs",
+              "RelativeToolTip": "HosikoRefApp\\VM\\MainWVM.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:18:34.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CD.cs",
+              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\CORE\\CD.cs",
+              "RelativeDocumentMoniker": "HosikoRefApp\\CORE\\CD.cs",
+              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\CORE\\CD.cs",
+              "RelativeToolTip": "HosikoRefApp\\CORE\\CD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:15:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseVM.cs",
+              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\VM\\BaseVM.cs",
+              "RelativeDocumentMoniker": "HosikoRefApp\\VM\\BaseVM.cs",
+              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\VM\\BaseVM.cs",
+              "RelativeToolTip": "HosikoRefApp\\VM\\BaseVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:14:44.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DelCom.cs",
+              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\COM\\DelCom.cs",
+              "RelativeDocumentMoniker": "HosikoRefApp\\COM\\DelCom.cs",
+              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\COM\\DelCom.cs",
+              "RelativeToolTip": "HosikoRefApp\\COM\\DelCom.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:14:23.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "G.cs",
               "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\M\\G.cs",
               "RelativeDocumentMoniker": "HosikoRefApp\\M\\G.cs",
               "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\M\\G.cs",
               "RelativeToolTip": "HosikoRefApp\\M\\G.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T12:46:29.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "HosikoRefApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\MainWindow.xaml",
-              "RelativeToolTip": "HosikoRefApp\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\V\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HosikoRefApp\\V\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\V\\MainWindow.xaml",
+              "RelativeToolTip": "HosikoRefApp\\V\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-13T12:46:00.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HosikoRefApp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "HosikoRefApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAIwA0AAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\V\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HosikoRefApp\\V\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Neko\\source\\repos\\HosikoRefApp\\HosikoRefApp\\V\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HosikoRefApp\\V\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T12:45:57.935Z",
               "EditorCaption": ""
